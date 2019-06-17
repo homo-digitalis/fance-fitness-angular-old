@@ -10,6 +10,7 @@ export class SaturdayComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
+    window.open('https://chat.whatsapp.com/Is6qY0QZ0WHLA83yoDVJWp');
   }
 
 }

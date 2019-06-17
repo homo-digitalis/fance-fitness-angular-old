@@ -39,7 +39,6 @@ const routes: Routes = [
     path: 'sunday',
     component: SundayComponent
   },
-
   {
     path: '',
     component: LandingPageComponent
