@@ -8,8 +8,8 @@ sudo ngh --dir=dist/fance-fitness-angular/
 
 oder 
 
-ng build --prod --base-href=/fance-fitness-angular/
-sudo ngh --dir=dist/fance-fitness-angular/
+ng build --prod --base-href=./dist/fance-fitness-angular/
+sudo ngh --dir=./dist/fance-fitness-angular/
 
 ## Development server
 
