@@ -6,6 +6,11 @@ ng build 'fance-fitness-angular' --prod --vendor-chunk=true
 sudo ngh --dir=dist/fance-fitness-angular/
 
 
+oder 
+
+ng build --prod --base-href=/fance-fitness-angular/
+sudo ngh --dir=dist/fance-fitness-angular/
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
