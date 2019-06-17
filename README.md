@@ -2,14 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 
-ng build 'fance-fitness-angular' --prod --vendor-chunk=true
-sudo ngh --dir=dist/fance-fitness-angular/
+ng build --prod --vendor-chunk=true
+sudo npx ngh --dir=dist/fance-fitness-angular
 
-
-oder 
-
-ng build --prod --base-href=./dist/fance-fitness-angular/
-sudo ngh --dir=./dist/fance-fitness-angular/
 
 ## Development server
 
